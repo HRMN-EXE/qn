@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+*.tsbuildinfo
+
+# Expo / React Native specific
+.expo/
+.expo-shared/
+android/app/build/
+ios/Pods/
+ios/*.xcworkspace/
+ios/*.xcodeproj/
+*.hbc
+*.bundle
